@@ -16,8 +16,8 @@ for file in files:
     print("Shape:")
     print(df.shape)
 
-    print("Data Types:")
+    print("\nData Types:")
     print(df.dtypes)
 
-    print("Head:")
+    print("\nHead:")
     print(df.head())
