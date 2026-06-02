@@ -1,23 +1,22 @@
 # Day 1 Summary
 
-## Completed Tasks
+## Fund Houses
+10 unique fund houses
 
-- Project structure created
-- Git repository initialized
-- Dependencies installed
-- requirements.txt generated
-- Live NAV data fetched using MFAPI
-- HDFC Top 100 NAV CSV generated
-- SBI Bluechip NAV CSV generated
-- ICICI Bluechip NAV CSV generated
-- Nippon Large Cap NAV CSV generated
-- Axis Bluechip NAV CSV generated
-- Kotak Bluechip NAV CSV generated
-- Data ingestion script created
+## Categories
+- Equity
+- Debt
 
-## Deliverables
+## Risk Categories
+- Low
+- Moderate
+- High
+- Very High
+- Moderately High
 
-- data_ingestion.py
-- live_nav_fetch.py
-- fetch_all_funds.py
-- requirements.txt
+## AMFI Validation
+All AMFI codes validated successfully.
+Missing Codes: 0
+
+## Status
+Day 1 Completed
